@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="zjws" tvg-logo="" group-title="浙江高清",浙江卫视
+https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+#EXTINF:-1 tvg-id="zjqj" tvg-logo="" group-title="浙江高清",浙江钱江都市
+https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+#EXTINF:-1 tvg-id="zjjj" tvg-logo="" group-title="浙江高清",浙江经济生活
+https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1 tvg-id="zjjk" tvg-logo="" group-title="浙江高清",浙江教科影视
+https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 tvg-id="zjms" tvg-logo="" group-title="浙江高清",浙江民生休闲
+https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+#EXTINF:-1 tvg-id="zjxw" tvg-logo="" group-title="浙江高清",浙江新闻
+https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+#EXTINF:-1 tvg-id="zjse" tvg-logo="" group-title="浙江高清",浙江少儿
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 tvg-id="zjgjj" tvg-logo="" group-title="浙江高清",浙江国际
+https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1 tvg-id="zjjl" tvg-logo="" group-title="浙江高清",之江纪录
+https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
