@@ -1,19 +1,44 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="zjws" tvg-logo="" group-title="浙江高清",浙江卫视
-https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-#EXTINF:-1 tvg-id="zjqj" tvg-logo="" group-title="浙江高清",浙江钱江都市
-https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-#EXTINF:-1 tvg-id="zjjj" tvg-logo="" group-title="浙江高清",浙江经济生活
-https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-#EXTINF:-1 tvg-id="zjjk" tvg-logo="" group-title="浙江高清",浙江教科影视
-https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-#EXTINF:-1 tvg-id="zjms" tvg-logo="" group-title="浙江高清",浙江民生休闲
-https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:-1 tvg-id="zjxw" tvg-logo="" group-title="浙江高清",浙江新闻
-https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-#EXTINF:-1 tvg-id="zjse" tvg-logo="" group-title="浙江高清",浙江少儿
-https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 tvg-id="zjgjj" tvg-logo="" group-title="浙江高清",浙江国际
-https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-#EXTINF:-1 tvg-id="zjjl" tvg-logo="" group-title="浙江高清",之江纪录
-https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#PLAYLIST:我的高清直播
+#EXTINF:-1 tvg-id="hunan4k" tvg-name="湖南卫视4K" group-title="卫视4K",湖南卫视4K
+https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
+#EXTINF:-1 tvg-id="dongfang4k" tvg-name="东方卫视4K" group-title="卫视4K",东方卫视4K
+http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+#EXTINF:-1 tvg-id="beijing4k" tvg-name="北京卫视4K" group-title="卫视4K",北京卫视4K
+http://120.211.62.180:8000/hls/35/index.m3u8
+#EXTINF:-1 tvg-id="zhejiang" tvg-name="浙江卫视" group-title="卫视",浙江卫视
+http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
+#EXTINF:-1 tvg-id="jiangsu" tvg-name="江苏卫视" group-title="卫视",江苏卫视
+http://113.57.140.161:10081/newlive/live/hls/31/live.m3u8
+#EXTINF:-1 tvg-id="shenzhen" tvg-name="深圳卫视" group-title="卫视",深圳卫视
+http://113.57.140.161:10081/newlive/live/hls/15/live.m3u8
+#EXTINF:-1 tvg-id="shandong" tvg-name="山东卫视" group-title="卫视",山东卫视
+http://113.57.140.161:10081/newlive/live/hls/27/live.m3u8
+#EXTINF:-1 tvg-id="anhui" tvg-name="安徽卫视" group-title="卫视",安徽卫视
+http://113.57.140.161:10081/newlive/live/hls/4/live.m3u8
+#EXTINF:-1 tvg-id="tianjin" tvg-name="天津卫视" group-title="卫视",天津卫视
+http://113.57.140.161:10081/newlive/live/hls/25/live.m3u8
+#EXTINF:-1 tvg-id="cctv1" tvg-name="CCTV-1" group-title="央视",CCTV-1
+http://74.91.26.218:82/live/cctv1hd.m3u8
+#EXTINF:-1 tvg-id="cctv2" tvg-name="CCTV-2" group-title="央视",CCTV-2
+http://113.25.252.226:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="cctv3" tvg-name="CCTV-3" group-title="央视",CCTV-3
+http://113.57.140.161:10081/newlive/live/hls/3/live.m3u8
+#EXTINF:-1 tvg-id="cctv4" tvg-name="CCTV-4" group-title="央视",CCTV-4
+http://113.25.252.226:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="cctv6" tvg-name="CCTV-6" group-title="央视",CCTV-6
+http://198.204.228.26/live/cctv6hd.m3u8
+#EXTINF:-1 tvg-id="cctv7" tvg-name="CCTV-7" group-title="央视",CCTV-7
+http://113.25.252.226:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="cctv10" tvg-name="CCTV-10" group-title="央视",CCTV-10
+http://113.25.252.226:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="cctv11" tvg-name="CCTV-11" group-title="央视",CCTV-11
+http://113.25.252.226:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="cctv12" tvg-name="CCTV-12" group-title="央视",CCTV-12
+http://113.25.252.226:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="cctv13" tvg-name="CCTV-13" group-title="央视",CCTV-13
+http://113.25.252.226:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="cctv14" tvg-name="CCTV-14" group-title="央视",CCTV-14
+http://113.25.252.226:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="cctv16" tvg-name="CCTV-16" group-title="央视",CCTV-16
+http://207.56.13.146:81/cdnlive/cctv16.m3u8
